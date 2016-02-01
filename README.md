@@ -22,6 +22,7 @@
 ![Demo Screenshot](https://raw.githubusercontent.com/threezj/FuLiApp/master/pic/3.png)
 
 ![Demo Screenshot](https://raw.githubusercontent.com/threezj/FuLiApp/master/pic/4.png)
+<<<<<<< HEAD
 
 ## License
 
@@ -45,3 +46,5 @@
 >LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 >OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 >SOFTWARE.
+=======
+>>>>>>> d58f0c284217a0998fb7c3c45c0c5adb4879a395
