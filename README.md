@@ -12,15 +12,6 @@
 
 微博 [Three_ZJ](http://weibo.com/zjthree)
 
-## app效果
-
-
-![Demo Screenshot](https://raw.githubusercontent.com/threezj/FuLiApp/master/pic/1.png)
-
-![Demo Screenshot](https://raw.githubusercontent.com/threezj/FuLiApp/master/pic/3.png)
-
-![Demo Screenshot](https://raw.githubusercontent.com/threezj/FuLiApp/master/pic/4.png)
-
 ## License
 
 >The MIT License (MIT)
