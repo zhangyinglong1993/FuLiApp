@@ -8,10 +8,6 @@
 - Volley
 - Glide
 
-## 联系方式
-
-微博 [Three_ZJ](http://weibo.com/zjthree)
-
 ## License
 
 >The MIT License (MIT)
